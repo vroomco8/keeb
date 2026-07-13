@@ -53,20 +53,13 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 
 
 ### PCB
-
-[Describe your PCB design approach — schematic capture tool (KiCad, EAGLE, etc.), routing decisions, diode/matrix layout, and anything tricky about the electrical design.]
+> Work in Progress
 
 ### Case
-
-[Describe the case design — CAD tool, construction method, and design intent (thin bezels, weight, acoustics, etc.)]
-
-- **Tooling:** KiCAD, Onshape (I have the most experience with EAGLE and Fusion 360, but I've heard good things about both of these options plus its in the docs)
-- **Construction:**  
-- **Design goals:** [e.g. sound profile, ergonomics, weight]
+> Work in Progress
 
 ### Firmware
-
-[Notes on your firmware configuration — keymap philosophy, layers, any custom features or macros.]
+> Work in Progress
 
 ---
 
