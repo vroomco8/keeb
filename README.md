@@ -66,11 +66,11 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 ## 🗂️ Repository Structure
 
 ```
-.
 ├── pcb/          # KiCad project, schematics, gerbers
 ├── case/         # CAD files, STLs, technical drawings
 ├── bom.csv/      # da bill of materials (please approve me)
 ├── images/       # images of PROGRESS
+├── WORKLOG.md    # da diary entries of my progress
 └── README.md
 ```
 
