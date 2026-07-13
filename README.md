@@ -53,7 +53,8 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 
 
 ### PCB
-> Work in Progress
+<img width="1914" height="512" alt="image" src="https://github.com/user-attachments/assets/7f5e6be0-1622-4d71-8203-501e637ae921" />
+
 
 ### Case
 > Work in Progress
