@@ -52,8 +52,9 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 <img width="1235" height="368" alt="image" src="https://github.com/user-attachments/assets/015c0119-300d-4286-b068-9812ba31948f" />
 
 
-### PCB
+### PCB (Working right now!)
 <img width="1914" height="512" alt="image" src="https://github.com/user-attachments/assets/7f5e6be0-1622-4d71-8203-501e637ae921" />
+<img width="1960" height="619" alt="image" src="https://github.com/user-attachments/assets/0cacdda4-c476-4881-ad93-56bf6a8eaa3b" />
 
 
 ### Case
@@ -71,14 +72,14 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 ├── case/         # CAD files, STLs, technical drawings
 ├── bom.csv/      # da bill of materials (please approve me)
 ├── images/       # images of PROGRESS
-├── WORKLOG.md    # da diary entries of my progress
+├── WORKLOG/   # da diary entries of my progress
 └── README.md
 ```
 
 ## 🚧 Roadmap
 
 - [x] Making GitHub Repo
-- [ ] Planning Your Keyboard
+- [x] Planning Your Keyboard
 - [ ] Designing the PCB
 - [ ] Designing the Case
 - [ ] Writing Firmware
