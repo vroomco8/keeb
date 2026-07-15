@@ -52,16 +52,17 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 <img width="1235" height="368" alt="image" src="https://github.com/user-attachments/assets/015c0119-300d-4286-b068-9812ba31948f" />
 
 
-### PCB (Working right now!)
+### PCB (Working on right now!)
 <img width="1914" height="512" alt="image" src="https://github.com/user-attachments/assets/7f5e6be0-1622-4d71-8203-501e637ae921" />
+<img width="2064" height="997" alt="image" src="https://github.com/user-attachments/assets/baaebadb-993b-46bc-aa1e-e7399791e856" />
+<img width="737" height="494" alt="image" src="https://github.com/user-attachments/assets/62f1bd21-7c54-4e30-8879-cae9145fc348" />
 <img width="1960" height="619" alt="image" src="https://github.com/user-attachments/assets/0cacdda4-c476-4881-ad93-56bf6a8eaa3b" />
 
-
 ### Case
-> Work in Progress
+> TODO
 
 ### Firmware
-> Work in Progress
+> TODO
 
 ---
 
