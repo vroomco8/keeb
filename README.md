@@ -1,11 +1,8 @@
-<div align="center">
-
 # ⌨️ KEYBOARD
 
 *A custom mechanical keyboard, designed from the switches down.*
 
-![status](https://img.shields.io/badge/status-in%20progress-yellow)
-![layout](https://img.shields.io/badge/layout-%5BLayout%2C%20%20100%25%5D-blue)
+![status](https://img.shields.io/badge/status-under%20review-yellow)
 
 </div>
 
@@ -17,28 +14,25 @@ This repository documents the design and build of a fully custom keyboard from s
 
 > [Thought I could get out of my comfort zone and try something I haven't done before. I'm mainly a CS guy, but have always wanted to design and make something for myself!]
 
-**At a glance:**
-
 Want to note that everything below is entirely conceptual. I have not researched at all about specific electronic parts nor have I explored options with 3d printing and etc. All of the stuff I am saying is coming straight from the little information I know about assembling a keyboard
 
 | | |
 |---|---|
-| **Layout** | 100% |
-| **Switches** | Cherry MX (Silent Red) |
+| **Layout** | 97% (104-3) |
+| **Switches** | Cherry MX (Red) |
 | **Case material** | 3D-printed atm, maybe switch to heavy material afterwards |
-| **Mounting style** | Tray Mount seems easiest, maybe will do a Top/Gasket mount if I want |
+| **Mounting style** | Tray Mount |
 | **Microcontroller** | Raspberry Pi Pico |
-| **Firmware** | [No idea lmao] |
+| **Firmware** | QMK |
 
 
 ---
 
 ## ✨ Features
 
-- [ ] RGB Implementation (idk if I want this, maybe make it toggleable?)
-- [ ] Rotary Encoder (Volume, puase/play)
-- [ ] OLED Screen (Cool displays / Current Spotify / etc...)
-- [ ] Is Bluetooth an option?
+- [x] RGB Implementation (toggleable)
+- [x] Rotary Encoder (Volume, pause/play)
+- [x] OLED Screen (Cool displays / Current Spotify / etc...)
 
 ---
 
@@ -52,17 +46,11 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 <img width="1235" height="368" alt="image" src="https://github.com/user-attachments/assets/015c0119-300d-4286-b068-9812ba31948f" />
 
 
-### PCB (Working on right now!)
-<img width="1914" height="512" alt="image" src="https://github.com/user-attachments/assets/7f5e6be0-1622-4d71-8203-501e637ae921" />
-<img width="2064" height="997" alt="image" src="https://github.com/user-attachments/assets/baaebadb-993b-46bc-aa1e-e7399791e856" />
-<img width="737" height="494" alt="image" src="https://github.com/user-attachments/assets/62f1bd21-7c54-4e30-8879-cae9145fc348" />
-<img width="1960" height="619" alt="image" src="https://github.com/user-attachments/assets/0cacdda4-c476-4881-ad93-56bf6a8eaa3b" />
-
-### Case
-> TODO
-
-### Firmware
-> TODO
+### Some Images
+<img width="1873" height="842" alt="image" src="https://github.com/user-attachments/assets/6c19b740-c72d-490a-8d09-0d5b59741b3d" />
+<img width="1711" height="931" alt="image" src="https://github.com/user-attachments/assets/86f9bd05-bceb-41fc-8c78-e1a9723c2a7d" />
+<img width="2749" height="845" alt="image" src="https://github.com/user-attachments/assets/3a3554ad-dba8-4c22-85fd-553784ca4e58" />
+<img width="3032" height="1150" alt="image" src="https://github.com/user-attachments/assets/e10ec8ee-d4d6-4c4a-a61d-e4cce44a01c1" />
 
 ---
 
@@ -71,9 +59,9 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 ```
 ├── pcb/          # KiCad project, schematics, gerbers
 ├── case/         # CAD files, STLs, technical drawings
+├── firmware/     # QMK firmware for the keyboard
 ├── bom.csv/      # da bill of materials (please approve me)
-├── images/       # images of PROGRESS
-├── WORKLOG/   # da diary entries of my progress
+├── WORKLOG/      # da diary entries of my progress
 └── README.md
 ```
 
@@ -81,9 +69,13 @@ Kinda like this, except the empty space above the numpad has a rotary encoder an
 
 - [x] Making GitHub Repo
 - [x] Planning Your Keyboard
-- [ ] Designing the PCB
-- [ ] Designing the Case
-- [ ] Writing Firmware
-- [ ] Adding Extra Parts
+- [x] Designing the PCB
+- [x] Designing the Case
+- [x] Writing Firmware
+- [x] Adding Extra Parts
 - [ ] Submitting
 ---
+
+
+
+PLEASE APPROVE ME
